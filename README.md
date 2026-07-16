@@ -109,11 +109,8 @@ flutter run
 ``` markdown
 ## Home Screen
 
-![Home](images/home.png)
+![Home](https://github.com/tanishqkolhatkar93/Flutter_Info_Managment_App/blob/main/Screenshot%202026-07-15%20203401.png)
 
-## Dashboard
-
-![Dashboard](images/dashboard.png)
 
 ## Details Screen
 
