@@ -114,7 +114,7 @@ flutter run
 
 ## Details Screen
 
-![Details](images/details.png)
+![Details](https://github.com/tanishqkolhatkar93/Flutter_Info_Managment_App/blob/main/Screenshot%202026-07-15%20203439.png)
 ```
 
 ------------------------------------------------------------------------
